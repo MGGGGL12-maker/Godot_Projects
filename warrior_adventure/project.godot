@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="Warrior_Adventure"
+run/main_scene="uid://ek0ibee4quyl"
 config/features=PackedStringArray("4.4", "Forward Plus")
 
 [rendering]
